@@ -1,1 +1,3 @@
-# lab_CodeQuality
+# Lab_CodeQuality
+
+Partners:
