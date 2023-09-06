@@ -32,6 +32,9 @@
 - Initialize your variables on creation
 - Being deliberate with your quotation marks 'single' | "double"
 
+### Self Evaluation
+3/4
+
 ### Source Webiste URL:
 - https://medium.com/techlaboratory/php-programming-best-practices-and-coding-styles-e43234446fd3
 - https://www.tutorialspoint.com/php/php_coding_standard.htm
